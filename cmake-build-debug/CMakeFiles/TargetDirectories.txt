@@ -1,0 +1,3 @@
+C:/Users/jrodr/CLionProjects/parcial 1/cmake-build-debug/CMakeFiles/parcial_1.dir
+C:/Users/jrodr/CLionProjects/parcial 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jrodr/CLionProjects/parcial 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
